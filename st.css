@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(90deg ,aqua,#660033);
+}
+.about h1{
+    color: aqua;
+}
+.about h2{
+    color: #660033;
+}
+.about p{
+    color:aquamarine;
+}
